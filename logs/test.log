@@ -1,0 +1,180 @@
+============================================================
+Path: samples/blogs.gml
+Vcount: 1222
+Ecount: 16714
+Parts: 10
+Targets: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+Alpha: 1000
+Beta: 0
+Detection: leiden
+Deception: prohico-sbm
+Interval: 50
+============================================================
+50    nmi: (0.9429114), jaccard: (0.9717803), recall: (0.9734462), precision: (0.9982420)
+100   nmi: (0.8042288), jaccard: (0.8920602), recall: (0.9597466), precision: (0.9267335)
+150   nmi: (0.8162880), jaccard: (0.9003233), recall: (0.9153252), precision: (0.9821212)
+200   nmi: (0.7399266), jaccard: (0.8471926), recall: (0.8690600), precision: (0.9711561)
+250   nmi: (0.5413212), jaccard: (0.5661444), recall: (0.6162905), precision: (0.8743382)
+300   nmi: (0.6613687), jaccard: (0.7975358), recall: (0.8331983), precision: (0.9490658)
+350   nmi: (0.6507081), jaccard: (0.7946772), recall: (0.8312278), precision: (0.9475683)
+400   nmi: (0.6577988), jaccard: (0.7833913), recall: (0.8170068), precision: (0.9500995)
+450   nmi: (0.5087112), jaccard: (0.5382396), recall: (0.5846821), precision: (0.8714008)
+500   nmi: (0.5009806), jaccard: (0.5240743), recall: (0.5772182), precision: (0.8505721)
+550   nmi: (0.4855287), jaccard: (0.5157656), recall: (0.5726762), precision: (0.8384494)
+600   nmi: (0.5568742), jaccard: (0.6884615), recall: (0.7383350), precision: (0.9106511)
+650   nmi: (0.4818477), jaccard: (0.5547135), recall: (0.6153155), precision: (0.8492209)
+700   nmi: (0.4453087), jaccard: (0.4825479), recall: (0.5400900), precision: (0.8191419)
+750   nmi: (0.5109044), jaccard: (0.6523902), recall: (0.7170183), precision: (0.8786107)
+800   nmi: (0.4207124), jaccard: (0.4623991), recall: (0.5157924), precision: (0.8170806)
+850   nmi: (0.4239684), jaccard: (0.4709068), recall: (0.5328086), precision: (0.8021072)
+900   nmi: (0.3911885), jaccard: (0.4587007), recall: (0.5101753), precision: (0.8196988)
+950   nmi: (0.4106468), jaccard: (0.4636180), recall: (0.5340281), precision: (0.7785813)
+1000  nmi: (0.4031308), jaccard: (0.4897079), recall: (0.5395774), precision: (0.8412327)
+============================================================
+
+
+
+============================================================
+Path: samples/blogs.gml
+Vcount: 1222
+Ecount: 16714
+Parts: 11
+Targets: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+Alpha: 1000
+Beta: 0
+Detection: leiden
+Deception: prohico-sbm
+Interval: 50
+============================================================
+50    nmi: (0.9047745), jaccard: (0.9529943), recall: (0.9828403), precision: (0.9691191)
+100   nmi: (0.8724909), jaccard: (0.9353247), recall: (0.9476225), precision: (0.9863150)
+150   nmi: (0.8194691), jaccard: (0.9026668), recall: (0.9230935), precision: (0.9760720)
+200   nmi: (0.7529053), jaccard: (0.8625251), recall: (0.9146756), precision: (0.9379959)
+250   nmi: (0.7152276), jaccard: (0.8328044), recall: (0.8671845), precision: (0.9545583)
+300   nmi: (0.7086016), jaccard: (0.8295808), recall: (0.8622127), precision: (0.9563690)
+350   nmi: (0.5465158), jaccard: (0.5590331), recall: (0.6030143), precision: (0.8845898)
+400   nmi: (0.6396095), jaccard: (0.7717451), recall: (0.8058413), precision: (0.9480242)
+450   nmi: (0.5172250), jaccard: (0.5439052), recall: (0.5910826), precision: (0.8720338)
+500   nmi: (0.5028226), jaccard: (0.5232867), recall: (0.5755281), precision: (0.8521780)
+550   nmi: (0.5635455), jaccard: (0.7173068), recall: (0.7667533), precision: (0.9175128)
+600   nmi: (0.5185985), jaccard: (0.6910532), recall: (0.7687915), precision: (0.8723539)
+650   nmi: (0.5057534), jaccard: (0.5574283), recall: (0.6025902), precision: (0.8814844)
+700   nmi: (0.5241783), jaccard: (0.6708728), recall: (0.7218923), precision: (0.9046930)
+750   nmi: (0.4406236), jaccard: (0.4808015), recall: (0.5322371), precision: (0.8326406)
+800   nmi: (0.5020894), jaccard: (0.6564788), recall: (0.7105203), precision: (0.8961706)
+850   nmi: (0.4240078), jaccard: (0.4684874), recall: (0.5201345), precision: (0.8251169)
+900   nmi: (0.4396500), jaccard: (0.6185216), recall: (0.6859382), precision: (0.8628864)
+950   nmi: (0.4032753), jaccard: (0.4540538), recall: (0.5168092), precision: (0.7889968)
+1000  nmi: (0.4077702), jaccard: (0.4578684), recall: (0.5137608), precision: (0.8080139)
+============================================================
+
+
+
+============================================================
+Path: samples/blogs.gml
+Vcount: 1222
+Ecount: 16714
+Parts: 11
+Targets: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+Alpha: 1000
+Beta: 0
+Detection: leiden
+Deception: prohico-dcsbm
+Interval: 50
+============================================================
+50    nmi: (0.7153693), jaccard: (0.8374074), recall: (0.8413094), precision: (0.9944920)
+100   nmi: (0.6220505), jaccard: (0.7836507), recall: (0.8206064), precision: (0.9456554)
+150   nmi: (0.5898134), jaccard: (0.7185782), recall: (0.7404393), precision: (0.9605342)
+200   nmi: (0.4615290), jaccard: (0.5028130), recall: (0.5533141), precision: (0.8463680)
+250   nmi: (0.6021443), jaccard: (0.6518307), recall: (0.6950453), precision: (0.9129205)
+300   nmi: (0.5696529), jaccard: (0.6484296), recall: (0.6953015), precision: (0.9058279)
+350   nmi: (0.4701829), jaccard: (0.4963446), recall: (0.5525012), precision: (0.8300280)
+400   nmi: (0.4455755), jaccard: (0.4700885), recall: (0.5477415), precision: (0.7682968)
+450   nmi: (0.4559819), jaccard: (0.4678091), recall: (0.5519033), precision: (0.7543114)
+500   nmi: (0.5235692), jaccard: (0.5515533), recall: (0.6201328), precision: (0.8329839)
+550   nmi: (0.5236059), jaccard: (0.5442360), recall: (0.6136176), precision: (0.8279799)
+600   nmi: (0.5119708), jaccard: (0.5349050), recall: (0.6064545), precision: (0.8192945)
+650   nmi: (0.5136712), jaccard: (0.5350562), recall: (0.6064604), precision: (0.8196384)
+700   nmi: (0.5065444), jaccard: (0.5263344), recall: (0.5998922), precision: (0.8110520)
+750   nmi: (0.5015956), jaccard: (0.5189990), recall: (0.5937894), precision: (0.8047077)
+800   nmi: (0.4541911), jaccard: (0.4484072), recall: (0.5404075), precision: (0.7248159)
+850   nmi: (0.5034348), jaccard: (0.5197055), recall: (0.5946023), precision: (0.8049130)
+900   nmi: (0.4900915), jaccard: (0.5069753), recall: (0.5845262), precision: (0.7925844)
+950   nmi: (0.4911342), jaccard: (0.5040247), recall: (0.5826029), precision: (0.7888958)
+1000  nmi: (0.4494337), jaccard: (0.4514708), recall: (0.5409642), precision: (0.7318333)
+============================================================
+
+
+
+============================================================
+Path: samples/blogs.gml
+Vcount: 1222
+Ecount: 16714
+Parts: 11
+Targets: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+Alpha: 1000
+Beta: 0
+Detection: leiden
+Deception: prohico-sbm
+Interval: 50
+============================================================
+50    nmi: (0.9313183), jaccard: (0.9628400), recall: (0.9709922), precision: (0.9913557)
+100   nmi: (0.8730688), jaccard: (0.9343781), recall: (0.9466720), precision: (0.9862920)
+150   nmi: (0.8692311), jaccard: (0.9280523), recall: (0.9485986), precision: (0.9771935)
+200   nmi: (0.8169937), jaccard: (0.8971864), recall: (0.9273325), precision: (0.9650332)
+250   nmi: (0.7324535), jaccard: (0.8409315), recall: (0.8788757), precision: (0.9511669)
+300   nmi: (0.6916614), jaccard: (0.8141836), recall: (0.8487403), precision: (0.9523742)
+350   nmi: (0.6908444), jaccard: (0.8215015), recall: (0.8782660), precision: (0.9270624)
+400   nmi: (0.6463722), jaccard: (0.7892389), recall: (0.8669228), precision: (0.8980383)
+450   nmi: (0.6143049), jaccard: (0.7563330), recall: (0.8078536), precision: (0.9222362)
+500   nmi: (0.4894663), jaccard: (0.5647938), recall: (0.6173822), precision: (0.8689489)
+550   nmi: (0.5531490), jaccard: (0.7132822), recall: (0.7611842), precision: (0.9189258)
+600   nmi: (0.4626832), jaccard: (0.5201410), recall: (0.5842372), precision: (0.8258171)
+650   nmi: (0.5245304), jaccard: (0.6891719), recall: (0.7479529), precision: (0.8976385)
+700   nmi: (0.4996538), jaccard: (0.6627788), recall: (0.7088151), precision: (0.9107519)
+750   nmi: (0.5219561), jaccard: (0.6820108), recall: (0.7344167), precision: (0.9052825)
+800   nmi: (0.4882585), jaccard: (0.6633660), recall: (0.7204780), precision: (0.8932592)
+850   nmi: (0.5143858), jaccard: (0.6735140), recall: (0.7237422), precision: (0.9065833)
+900   nmi: (0.4716623), jaccard: (0.6463366), recall: (0.7001175), precision: (0.8937751)
+950   nmi: (0.3713863), jaccard: (0.4426199), recall: (0.4988740), precision: (0.7969648)
+1000  nmi: (0.3701583), jaccard: (0.4468610), recall: (0.5037096), precision: (0.7983639)
+============================================================
+
+
+
+============================================================
+Path: samples/blogs.gml
+Vcount: 1222
+Ecount: 16714
+Parts: 11
+Targets: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+Alpha: 1000
+Beta: 0
+Detection: leiden
+Deception: prohico-dcsbm
+Interval: 50
+============================================================
+50    nmi: (0.7167906), jaccard: (0.8416449), recall: (0.8594562), precision: (0.9759686)
+100   nmi: (0.6706603), jaccard: (0.8023210), recall: (0.8184097), precision: (0.9760839)
+150   nmi: (0.4797668), jaccard: (0.5202599), recall: (0.5673391), precision: (0.8624391)
+200   nmi: (0.5357261), jaccard: (0.6582559), recall: (0.6759187), precision: (0.9618177)
+250   nmi: (0.4916939), jaccard: (0.5046582), recall: (0.5783835), precision: (0.7983505)
+300   nmi: (0.6018062), jaccard: (0.6454098), recall: (0.6954979), precision: (0.8996168)
+350   nmi: (0.5420667), jaccard: (0.5857172), recall: (0.6419213), precision: (0.8699546)
+400   nmi: (0.5334023), jaccard: (0.5711632), recall: (0.6268936), precision: (0.8653167)
+450   nmi: (0.5250892), jaccard: (0.5711417), recall: (0.6279265), precision: (0.8633075)
+500   nmi: (0.4406222), jaccard: (0.4506226), recall: (0.5340609), precision: (0.7425524)
+550   nmi: (0.5085504), jaccard: (0.5474882), recall: (0.6099867), precision: (0.8423582)
+600   nmi: (0.4426673), jaccard: (0.4522891), recall: (0.5314034), precision: (0.7523515)
+650   nmi: (0.5257676), jaccard: (0.5477680), recall: (0.6178882), precision: (0.8283805)
+700   nmi: (0.5216057), jaccard: (0.5405928), recall: (0.6123542), precision: (0.8218416)
+750   nmi: (0.5199444), jaccard: (0.5418771), recall: (0.6121204), precision: (0.8252382)
+800   nmi: (0.4606448), jaccard: (0.4500411), recall: (0.5426254), precision: (0.7250963)
+850   nmi: (0.5129162), jaccard: (0.5279029), recall: (0.6019135), precision: (0.8110828)
+900   nmi: (0.5078014), jaccard: (0.5195492), recall: (0.5957344), precision: (0.8024747)
+950   nmi: (0.5037255), jaccard: (0.5085067), recall: (0.5873208), precision: (0.7912045)
+1000  nmi: (0.4945322), jaccard: (0.5041050), recall: (0.5834648), precision: (0.7875169)
+============================================================
+
+
+
